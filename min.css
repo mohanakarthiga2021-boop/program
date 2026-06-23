@@ -1,0 +1,364 @@
+.soft {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    justify-content: space-between;
+    width: 1000px;
+
+}
+
+
+.head {
+
+    background-image: url(imaa.avif);
+    width: 1300px;
+    height: 600px;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    gap: 300px;
+
+
+}
+
+.para {
+    padding: 150px 80px 150px 80px;
+
+}
+
+
+.sm {
+    background-color: blue;
+    color: white;
+    width: 190px;
+    height: 60px;
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+    margin: 40px;
+    border-color: rgb(214, 7, 49);
+    border-style: solid 10px;
+    border-radius: 25px;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 900px;
+    margin-top: 100px;
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    text-decoration: underline;
+    justify-content: end;
+    gap: 50px;
+}
+
+.surface {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+    width: 150px;
+    height: 100px;
+}
+
+
+
+.cl {
+    font-style: 30px;
+    color: white;
+    background-color: white;
+    display: flex;
+    grid-template-columns: auto auto auto auto auto;
+
+}
+
+.design {
+
+    width: 1000px;
+    height: 500px;
+    margin: 180px;
+    background-image: url(new.jpg);
+    background-size: cover;
+    background-position: 1000px;
+
+}
+
+.gen {
+    display: flex;
+    width: 200px;
+    margin: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+}
+
+.sl {
+    border: solid 8px rgb(252, 245, 245);
+    box-shadow: 2px 2px 3px 2px lightgrey;
+    margin: 30px;
+    width: 300px;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+}
+
+.full {
+    display: flex;
+    grid-template-columns: auto auto auto auto;
+}
+
+.new {
+    border: solid 8px white;
+    margin: 20px;
+    width: 300px;
+    padding: 10px 20px 10px 20px;
+    box-shadow: 2px 2px 3px 2px lightgray;
+}
+
+.whole {
+    display: flex;
+    grid-template-columns: auto auto auto auto;
+}
+
+.zz {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+.yy {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+.ww {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+.vv {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+
+}
+
+.css {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 20px;
+    border: solid;
+
+
+}
+
+.game {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+.ful {
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+.series {
+    background-color: blue;
+    color: white;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 25px;
+    border: solid;
+}
+
+
+
+.fin {
+    width: 900px;
+    height: 400px;
+
+}
+
+.imaa {
+    display: flex;
+    grid-template-columns: auto;
+    width: 300px;
+
+}
+
+.bb:hover {
+    text-decoration: underline;
+    color: mediumvioletred
+}
+
+.cc:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+
+.dd:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+
+}
+
+.ee:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+
+.ff:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+
+.gg:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+
+.hh:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+
+.ii:hover {
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.foot {
+    background-image: url(foot.avif);
+    width: 1300px;
+    height: 600px;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+    text-align: right;
+    right: 300px;
+
+
+
+}
+
+.cen {
+    background-image: url(design.avif);
+    width: 1300px;
+    height: 600px;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    font-size: 19px;
+    color: white;
+}
+
+.pc {
+    background-color: blue;
+    color: white;
+    width: 180px;
+    height: 50px;
+    font-size: 15px;
+    border: solid;
+    border-radius: 20px;
+
+}
+
+.chin {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 25px;
+    border-style: solid 10px;
+    border-color: rgb(252, 15, 141);
+}
+
+.fix :hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.fix2 :hover {
+    text-decoration: underline;
+    color: crimson;
+
+}
+
+.fix3 :hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.fix4 :hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.fix5 :hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.fix6 :hover {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.vini {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.wl {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+}
+
+.wl :hover {
+    text-decoration: underline;
+    color: deeppink;
+}
+
+.last {
+    display: flex;
+}
